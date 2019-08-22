@@ -1,7 +1,7 @@
 
 document.write("Let's Start a NEW JOURNEY!!!")
 
-/* In JavaScript there is two style for declaring a variable */
+/* In JavaScript there is two types of styles for declaring a variable */
 
 // this is the first style 
     var a = 3 
