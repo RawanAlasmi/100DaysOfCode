@@ -1,4 +1,4 @@
-""" Python Variables """
+""" Python Numbers """
 
 """ There are three numeric types in Python: """
 # Int
