@@ -12,18 +12,18 @@ JavaScript has become increasingly important in the front-end world. While it wa
 
 ## Day-by-Day Activities:
 ### Week 1
-* Day 1: [printing](1st_week\1st_Day.js)
-* Day 2: [comments](1st_week\2nd_Day.js)
-* Day 3: [Literals & Variable declaration](1st_week\3rd_Day.js)
-* Day 4-5: [challenge](1st_week\4th_and_5th_Days.js)
+* Day 1: [printing](JavaScript/1st_week/1st_Day.js)
+* Day 2: [comments](JavaScript/1st_week/2nd_Day.js)
+* Day 3: [Literals & Variable declaration](JavaScript/1st_week/3rd_Day.js)
+* Day 4-5: [challenge](JavaScript/1st_week/4th_and_5th_Days.js)
 
 ### Week 2
-* Day 6: [Identifiers](2nd_week\6th_Days.js)
-* Day 7: [Reserved Words](2nd_week\7th_Days.js)
-* Day 8: [Semicolons](2nd_week\8th_Days.js)
-* Day 9: [types & numbers](2nd_week\9th_Days.js)
-* Day 10: [Dates & Times](2nd_week\10th_Days.js)
-* Day 11-12: [challenge](2nd_week\11th_and_12th_Days.js)
+* Day 6: [Identifiers](JavaScript/2nd_week/6th_Days.js)
+* Day 7: [Reserved Words](JavaScript/2nd_week/7th_Days.js)
+* Day 8: [Semicolons](JavaScript/2nd_week/8th_Days.js)
+* Day 9: [types & numbers](JavaScript/2nd_week/9th_Days.js)
+* Day 10: [Dates & Times](JavaScript/2nd_week/10th_Days.js)
+* Day 11-12: [challenge](JavaScript/2nd_week/11th_and_12th_Days.js)
 
 ### Week 3
 * Day 13:
