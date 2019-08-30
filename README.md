@@ -12,7 +12,7 @@ JavaScript has become increasingly important in the front-end world. While it wa
 
 ## Day-by-Day Activities:
 ### Week 1
-* Day 1: [printing](100DaysOfCode/JavaScript/1st_week/1st_Day.js)
+* Day 1: [printing](JavaScript/1st_Week/1st_Day.js)
 * Day 2: [comments](JavaScript/1st_week/2nd_Day.js)
 * Day 3: [Literals & Variable declaration](JavaScript/1st_week/3rd_Day.js)
 * Day 4-5: [challenge](JavaScript/1st_week/4th_and_5th_Days.js)
