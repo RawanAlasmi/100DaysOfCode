@@ -2,7 +2,7 @@
 This opportunity is a challenge for learning JavaScript during #100DaysOfCode. It made by  Saudi Developer Organization. 
 
 ## Table of Contents
-* [Why JavaScript?](#why_javascript?)
+* [Why JavaScript?](#Why_JavaScript?)
 * [Day-by-Day Activities](#day-by-day_activities)
 
 ## Why JavaScript?
@@ -18,11 +18,11 @@ JavaScript has become increasingly important in the front-end world. While it wa
 * Day 4-5: [challenge](JavaScript/1st_week/4th_and_5th_Days.js)
 
 ### Week 2
-* Day 6: [Identifiers](JavaScript/2nd_week/6th_Days.js)
-* Day 7: [Reserved Words](JavaScript/2nd_week/7th_Days.js)
-* Day 8: [Semicolons](JavaScript/2nd_week/8th_Days.js)
-* Day 9: [types & numbers](JavaScript/2nd_week/9th_Days.js)
-* Day 10: [Dates & Times](JavaScript/2nd_week/10th_Days.js)
+* Day 6: [Identifiers](JavaScript/2nd_week/6th_Day.js)
+* Day 7: [Reserved Words](JavaScript/2nd_week/7th_Day.js)
+* Day 8: [Semicolons](JavaScript/2nd_week/8th_Day.js)
+* Day 9: [types & numbers](JavaScript/2nd_week/9th_Day.js)
+* Day 10: [Dates & Times](JavaScript/2nd_week/10th_Day.js)
 * Day 11-12: [challenge](JavaScript/2nd_week/11th_and_12th_Days.js)
 
 ### Week 3
