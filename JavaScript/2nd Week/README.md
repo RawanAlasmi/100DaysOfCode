@@ -3,7 +3,7 @@ This opportunity is a challenge for learning JavaScript during #100DaysOfCode. I
 
 ## Table of Contents
 * [Why JavaScript?](#Why_JavaScript?)
-* [Day-by-Day Activities:](#Day_by_Day_Activities:)
+* [Day-by-Day Activities:](#Day-by-Day_Activities:)
 
 ## Why JavaScript?
 <img src="JavaScript/javascript.jpg" alt="JavaScript">
@@ -11,7 +11,7 @@ JavaScript has become increasingly important in the front-end world. While it wa
 
 ## Day-by-Day Activities:
 ### Week 1
-* Day 1: 
+* Day 1: [printing](1st_week\1st_Day.js)
 * Day 2: 
 * Day 3: 
 * Day 4-5: 
@@ -24,4 +24,3 @@ JavaScript has become increasingly important in the front-end world. While it wa
 * Day 10: 
 * Day 11-12: 
 
-[Here](https://github.com/Mohamed-ElHadidy/frontend-nanodegree-arcade-game/archive/master.zip)
