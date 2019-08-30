@@ -3,7 +3,7 @@ This opportunity is a challenge for learning JavaScript during #100DaysOfCode. I
 
 ## Table of Contents
 * [Why JavaScript?](#Why_JavaScript?)
-* [Day-by-Day Activities:](#Day-by-Day_Activities:)
+* [Day-by-Day Activities:](#Day-by-Day_Activities)
 
 ## Why JavaScript?
 <img src="JavaScript/javascript.jpg" alt="JavaScript">
