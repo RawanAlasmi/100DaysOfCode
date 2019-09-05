@@ -1,16 +1,16 @@
 # 100DaysOfCode
 This opportunity is a challenge for learning JavaScript during #100DaysOfCode. It made by  Saudi Developer Organization. 
 
-## Table of Contents
+<!-- ## Table of Contents
 * [Why JavaScript?](#Why_JavaScript?)
-* [Day-by-Day Activities](#day-by-day_activities)
+* [Day-by-Day Activities](#day-by-day_activities) -->
 
-## Why JavaScript?
+## :pushpin: Why JavaScript?
 <img src="JavaScript/javascript.jpg" alt="JavaScript">
 
 JavaScript has become increasingly important in the front-end world. While it was once used mainly to make pages dynamic, it is now the foundation of many front-end frameworks. These frameworks handle a lot of the tasks that were formerly handled by the back-end (e.g., routing and displaying different views).
 
-## Day-by-Day Activities:
+## :rocket: Day-by-Day Activities:
 ### Week 1
 * Day 1: [printing](JavaScript/1st_Week/1st_Day.js)
 * Day 2: [comments](JavaScript/1st_Week/2nd_Day.js)
@@ -33,4 +33,12 @@ JavaScript has become increasingly important in the front-end world. While it wa
 * Day 17: [Switch](JavaScript/3rd_Week/17th_day.js)
 * Day 18-19: [challenge](JavaScript/3rd_Week/18th_and_19th_days.js)
 
+### Week 4
+* Day 20:
+* Day 21:
+* Day 22:
+* Day 23:
+* Day 24:
+* Day 25:
+* Day 26:
 
