@@ -26,11 +26,11 @@ JavaScript has become increasingly important in the front-end world. While it wa
 * Day 11-12: [challenge](JavaScript/2nd_Week/11th_and_12th_Days.js)
 
 ### Week 3
-* Day 13: [Strings methods](JavaScript/3rd_Week/13th_Day.js)
-* Day 14: [Variable Scope & Operator](JavaScript/3rd_Week/14th_Day.js)
-* Day 15: [If conditionals statments](JavaScript/3rd_Week/15th_Day.js)
-* Day 16: [Else if statments](JavaScript/3rd_Week/17th_Day.js)
-* Day 17: [Switch](JavaScript/3rd_Week/17th_Day.js)
-* Day 18-19: [challenge](JavaScript/3rd_Week/18th_and_19th_Days.js)
+* Day 13: [Strings methods](JavaScript/3rd_Week/13th_day.js)
+* Day 14: [Variable Scope & Operator](JavaScript/3rd_Week/14th_day.js)
+* Day 15: [If conditionals statments](JavaScript/3rd_Week/15th_day.js)
+* Day 16: [Else if statments](JavaScript/3rd_Week/17th_day.js)
+* Day 17: [Switch](JavaScript/3rd_Week/17th_day.js)
+* Day 18-19: [challenge](JavaScript/3rd_Week/18th_and_19th_days.js)
 
 
