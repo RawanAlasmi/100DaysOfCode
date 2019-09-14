@@ -39,7 +39,7 @@ JavaScript has become increasingly important in the front-end world. While it wa
 * Day 22: [Loops: for](JavaScript/4th_Week/22th_day.js)
 * Day 23: [Jumps: break](JavaScript/4th_Week/23th_day.js)
 * Day 24: [Jumps: continue](JavaScript/4th_Week/24th_day.js)
-* Day 25-26: [challenge](JavaScript/4th_Week/25th_and_26th_day.js)
+* Day 25-26: [challenge](JavaScript/4th_Week/25th_and_26th_days.js)
 
 ### Week 5
 * Day 27:
