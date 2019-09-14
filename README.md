@@ -34,11 +34,18 @@ JavaScript has become increasingly important in the front-end world. While it wa
 * Day 18-19: [challenge](JavaScript/3rd_Week/18th_and_19th_days.js)
 
 ### Week 4
-* Day 20:
-* Day 21:
-* Day 22:
-* Day 23:
-* Day 24:
-* Day 25:
-* Day 26:
+* Day 20: [Loops: while](JavaScript/4th_Week/20th_day.js)
+* Day 21: [Loops: do-while](JavaScript/4th_Week/21th_day.js)
+* Day 22: [Loops: for](JavaScript/4th_Week/22th_day.js)
+* Day 23: [Jumps: break](JavaScript/4th_Week/23th_day.js)
+* Day 24: [Jumps: continue](JavaScript/4th_Week/24th_day.js)
+* Day 25-26: [challenge](JavaScript/4th_Week/25th_and_26th_day.js)
 
+### Week 5
+* Day 27:
+* Day 28:
+* Day 29:
+* Day 30:
+* Day 31:
+* Day 32:
+* Day 33:
