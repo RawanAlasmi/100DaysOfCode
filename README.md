@@ -42,10 +42,18 @@ JavaScript has become increasingly important in the front-end world. While it wa
 * Day 25-26: [challenge](JavaScript/4th_Week/25th_and_26th_days.js)
 
 ### Week 5
-* Day 27:
-* Day 28:
-* Day 29:
-* Day 30:
-* Day 31:
-* Day 32:
-* Day 33:
+* Day 27: [Jumps: return](JavaScript/5th_Week/27th_day.js)
+* Day 28: [Jumps: throw](JavaScript/5th_Week/28th_day.js)
+* Day 29: [Jumps: try..catch..finally](JavaScript/5th_Week/29th_day.js)
+* Day 30: [Objects](JavaScript/4th_Week/30th_day.js)
+* Day 31: [Object with method](JavaScript/5th_Week/31th_day.js)
+* Day 32-33: [challenge](JavaScript/5th_Week/32th_and_33th_days.js)
+
+### Week 6
+* Day 34:
+* Day 35:
+* Day 36:
+* Day 37:
+* Day 38:
+* Day 39:
+* Day 40:
