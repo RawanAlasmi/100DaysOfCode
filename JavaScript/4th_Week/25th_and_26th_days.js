@@ -1,16 +1,35 @@
 /* challenge */
 
-str = ""
-
-for (var i = 0; i < 5; i++) {
-loop1: while (i === 1) {
-    continue loop1;
-  }
-  str = str + i;
-
-loop2: while (i === 3) {
-    break loop2;
+var i = 0;
+for(var count =1 ; count <= 10 ; count++){
+  
+ if (count === 2) {
+   document.write(count + " is prime number <br>"); 
  }
-  str = str + i;
-  console.log(str)
+  
+  if (count === 1) {
+   document.write(count + " isn't prime number <br>"); 
+ }
+  
+  checkPrime:
+  while(count % 2 == 1 && count > 2){
+    
+    if(i % 3 == 0) {
+      document.write(count + " isn't prime number <br>");
+      break;
+    }
+    
+    document.write(count + " is prime number <br>");
+    break;
+  }
+  
+  checkNotPrime:
+  i = count
+  while (i % 2 == 0 && i > 2){ 
+         
+      document.write(i + " isn't prime number <br>")
+    i++
+    continue;
+    
+  }
 }
