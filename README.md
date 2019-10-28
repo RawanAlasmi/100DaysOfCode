@@ -50,20 +50,20 @@ JavaScript has become increasingly important in the front-end world. While it wa
 * Day 32-33: [Challenge](JavaScript/5th_Week/32th_and_33th_days.js)
 
 ### Week 6
-* Day 34: ['this' Keyword]()
-* Day 35: [Inheritance]()
-* Day 36: [Deleting Properties]()
-* Day 37: [Testing Properties]()
-* Day 38: [Property Getters and Setters]()
-* Day 39-40: [Challenge]()
+* Day 34: ['this' Keyword](JavaScript/6th_Week/34th_day.js)
+* Day 35: [Inheritance](JavaScript/6th_Week/35th_day.js)
+* Day 36: [Deleting Properties](JavaScript/6th_Week/36th_day.js)
+* Day 37: [Testing Properties](JavaScript/6th_Week/37th_day.js)
+* Day 38: [Property Getters and Setters](JavaScript/6th_Week/38th_day.js)
+* Day 39-40: [Challenge](JavaScript/6th_Week/39th_and_40th_day.js)
 
 ### Week 7
-* Day 41: [The prototype Attribute]()
-* Day 42: [Adding Properties to Property]()
-* Day 43: [Arrays]()
-* Day 44: [Creating Arrays]()
-* Day 45: [Reading and Accessing elements]()
-* Day 46-47: [Challenge]()
+* Day 41: [The prototype Attribute](JavaScript/7th_Week/41th_day.js)
+* Day 42: [Adding Properties to Property](JavaScript/7th_Week/42th_day.js)
+* Day 43: [Arrays](JavaScript/7th_Week/43th_day.js)
+* Day 44: [Creating Arrays](JavaScript/7th_Week/44th_day.js)
+* Day 45: [Reading and Accessing elements](JavaScript/7th_Week/45th_day.js)
+* Day 46-47: [Challenge](JavaScript/7th_Week/46th_and_47th_day.js)
 
 ### Week 8
 * Day 48:
